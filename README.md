@@ -5,16 +5,20 @@ Membros: Gustavo Costa, Laís Almeida e Pietro dos Santos
 
 FUNCIONALIDADES INICIAL DO SISTEMA ANIMAL SIDE:
  
-- Login usuário
+- Realizar login como usuário
  
-- Login administrador
+- Realizar login como administrador
 
-- Cadastro usuário
+- Realizar cadastro de usuário
 
-- Alterar usuario
+- Editar perfil de usuario
  
-- Cadastro animal
+- Realizar cadastro de animal
 
-- Alterar animal
+- Editar cadastro do animal
 
-- Excluir animal
+- Excluir cadastro do animal
+
+- Adiministrador ter acesso aos animais que estão em doação
+
+- Adotar animal
