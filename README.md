@@ -88,10 +88,10 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
 
 ## MODELO DE ENTIDADE RELACIONAL (MER)
 
-![MER - Parte 1](images/image1)
-![MER - Parte 2](images/image2)
-![MER - Parte 3](images/image3)
-![MER - Parte 4](images/image4)
-![MER - Parte 5](images/image5)
-![MER - Parte 6](images/image6)
-![MER - Parte 7](images/image7)
+![MER - Parte 1](images/imagem1)
+![MER - Parte 2](images/imagem2)
+![MER - Parte 3](images/imagem3)
+![MER - Parte 4](images/imagem4)
+![MER - Parte 5](images/imagem5)
+![MER - Parte 6](images/imagem6)
+![MER - Parte 7](images/imagem7)
