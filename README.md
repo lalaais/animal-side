@@ -18,7 +18,7 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
 ### Funcionalidades do Usuário
 
 1. **Cadastro de Usuário:**
-   - Usuários podem se registrar no sistema fornecendo seus dados pessoais.
+   - Usuários podem se registrar no sistema fornecendo seus dados pessoais.	
 
 2. **Login:**
    - Usuários podem acessar o sistema com suas credenciais.
@@ -84,3 +84,14 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
 
 11. **Gerenciar Usuários:**
     - Administradores podem visualizar, editar ou remover perfis de usuários do sistema.
+
+
+## MODELO DE ENTIDADE RELACIONAL (MER)
+
+![MER - Parte 1](images/image1)
+![MER - Parte 2](images/image2)
+![MER - Parte 3](images/image3)
+![MER - Parte 4](images/image4)
+![MER - Parte 5](images/image5)
+![MER - Parte 6](images/image6)
+![MER - Parte 7](images/image7)
