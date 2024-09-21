@@ -168,7 +168,7 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
    ![Tela Feedbacks Usuário](/Imagens/Feedbacks%20Usuário.png)
 
 24. **Feedbacks Usuário Mensagem**
-   ![Tela Feedbacks Usuário Mensagem](/Imagens/Feedbacks%20Usuário%20Mensagem.png)
+   ![Tela Feedbacks Usuário Mensagem](/Imagens/Feedback-Mensagem.png)
 
 25. **Cadastro Animal perdido**
    ![Tela Cadastro Animal perdido](/Imagens/Coment.%20Animal%20desaparecido.png)
@@ -189,7 +189,7 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
    ![Tela Adoção Pop-Up excluir](/Imagens/Feed%20Adoção%20Pop-Up%20excluir.png)
 
 31. **Feed Adoção Pop-Up editar**
-   ![Tela Adoção Pop-Up editar](/Imagens/Feed%20Adoção%20Pop-Up%20editar.png)
+   ![Tela Adoção Pop-Up editar](/Imagens/FeedAdoçãoeditar.png)
 
 32. **Post**
    ![Tela Post](/Imagens/Post.png)
@@ -234,7 +234,7 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
    ![Tela a ONG](/Imagens/ong_final.png)
 
 3. **Quem Somos**
-   ![Tela Quem Somos](/Imagens/Quem somos_final.png)
+   ![Tela Quem Somos](/Imagens/Quem-somos_final.png)
 
 4. **Ajude**
    ![Tela Ajude](/Imagens/Ajude_final.png)
@@ -288,13 +288,13 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
    ![Tela Post Usúario](/Imagens/PostUsuario_final.png)
 
 21. **Post Usuário Pop-Up alteração**
-   ![Tela Post Usuário Pop-Up alteração](/Imagens/PostUsuario Pop-Up alteraçao_final.png)
+   ![Tela Post Usuário Pop-Up alteração](/Imagens/PostUsuario-Pop-Up-alteraçao_final.png)
 
 22. **Post Usuário Pop-Up excluir**
-   ![Tela Post Usuário Pop-Up excluir](/Imagens/PostUsuario Pop-Up excluir_fiinal.png)
+   ![Tela Post Usuário Pop-Up excluir](/Imagens/PostUsuario-Pop-Up-excluir_fiinal.png)
 
 23. **Post Usuário Pop-Up editar**
-   ![Tela Post Usuário Pop-Up editar](/Imagens/PostUsuario Pop-Up editar_final.png)
+   ![Tela Post Usuário Pop-Up editar](/Imagens/PostUsuario-Pop-Up-editar_final.png)
 
 24. **Coment.Usuário**
    ![Tela Comentario Usuário ](/Imagens/Coment.Usuario_final.png)
@@ -303,43 +303,43 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
    ![Tela Feedbacks Usuário](/Imagens/Feedback1_final.png)
 
 26. **Feedbacks Usuário Mensagem**
-   ![Tela Feedbacks Usuário Mensagem](/Imagens/Feedback2_final.png)
+   ![Tela Feedbacks Usuário Mensagem](/Imagens/Feedback Mensagem_final.png)
 
 27. **Cadastro Animal perdido**
-   ![Tela Cadastro Animal perdido](/Imagens/Cadastrar Animal Perdido_final.png)
+   ![Tela Cadastro Animal perdido](/Imagens/CadastrarAnimal-Perdido_final.png)
 
 28. **Cadastro Animal perdido**
-   ![Tela Cadastro Animal perdido](/Imagens/Cadastrar Animal Perdido2_final.png)
+   ![Tela Cadastro Animal perdido](/Imagens/CadastrarAnimal-Perdido2_final.png)
 
 29. **Intereses**
-   ![Tela Intereses](/Imagens/Intereses_final.png)
+   ![Tela Intereses](/Imagens/Interesses1_final.png)
 
 30. **Intereses**
-   ![Tela Intereses](/Imagens/Intereses2_final.png)
+   ![Tela Intereses](/Imagens/Interesses2_final.png)
 
 31. **Perfil Administrador**
-   ![Tela Perfil administrador](/Imagens/Perfil Admin_final.png)
+   ![Tela Perfil administrador](/Imagens/PerfilAdmin_final.png)
 
 32. **Feed Adoção**
-   ![Tela Feed adoção](/Imagens/Feed Adoção_final.png)
+   ![Tela Feed adoção](/Imagens/FeedAdoção_final.png)
 
 33. **Situação do bichinho**
-   ![Tela Situação do bichinho](/Imagens/Situação do bichinho_final.png)
+   ![Tela Situação do bichinho](/Imagens/Situaçãodobichinho_final.png)
 
 34. **Feed Adoção Pop-Up excluir**
-   ![Tela Adoção Pop-Up excluir](/Imagens/Feed Adoção excluir_final.png)
+   ![Tela Adoção Pop-Up excluir](/Imagens/FeedAdoção-excluir_final.png)
 
 35. **Feed Adoção Pop-Up editar**
-   ![Tela Adoção Pop-Up editar](/Imagens/Feed Adoção editar_final.png)
+   ![Tela Adoção Pop-Up editar](/Imagens/FeedAdoção-editar_final.png)
 
 36. **Post**
    ![Tela Post](/Imagens/Posts_final.png)
 
 37. **Post Pop-Up**
-   ![Tela Post Pop-Up](/Imagens/Post Pop-up_final.png)
+   ![Tela Post Pop-Up](/Imagens/PostUsuario-Pop-Up-alteraçao_final.png)
 
 38. **Cadastra para Adoção**
-   ![Tela Cadastrar para adoção](/Imagens/Cadastre Adoção_final.png)
+   ![Tela Cadastrar para adoção](/Imagens/CadastreAdoção_final.png)
 
 39. **Denúncias**
    ![Tela Denúncias](/Imagens/Denuncias_final.png)
@@ -360,10 +360,10 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
    ![Tela Dashboard](/Imagens/Dados2_final.png)
 
 44. **Feed procurar animal**
-   ![Tela Feed procurar animal](/Imagens/Feed animais perdidos1_final.png)
+   ![Tela Feed procurar animal](/Imagens/Feedanimaisperdidos1_final.png)
 
 45. **Coment. Animal desaparecido**
-   ![Tela Comentar animal desaparecido](/Imagens/Feed animais perdidos2_final.png)
+   ![Tela Comentar animal desaparecido](/Imagens/Feedanimaisperdidos2_final.png)
 
 46. **Denúnciar Post**
-   ![Tela Denúnciar Post](/Imagens/Feed animais perdidos3_final.png)
+   ![Tela Denúnciar Post](/Imagens/Feedanimaisperdidos3_final.png)
