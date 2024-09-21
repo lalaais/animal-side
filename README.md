@@ -162,7 +162,7 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
    ![Tela Post Usuário Pop-Up excluir](/Imagens/Post%20Usuário%20Pop-Up%20excluir.png)
 
 22. **Coment.Usuário**
-   ![Tela Comentario Usuário ](/Imagens/Coment.Usuário.png.png)
+   ![Tela Comentario Usuário ](/Imagens/Coment.Usuário.png)
    
 23. **Feedbacks Usuário**
    ![Tela Feedbacks Usuário](/Imagens/Feedbacks%20Usuário.png)
@@ -223,3 +223,147 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
 
 42. **Denúnciar Post**
    ![Tela Denúnciar Post](/Imagens/Denúnciar%20Post.png)
+
+
+## Telas Alta Fidelidade
+
+1. **Home**
+   ![Tela Home](/Imagens/home_final.png)
+
+2. **A ONG**
+   ![Tela a ONG](/Imagens/ong_final.png)
+
+3. **Quem Somos**
+   ![Tela Quem Somos](/Imagens/Quem somos_final.png)
+
+4. **Ajude**
+   ![Tela Ajude](/Imagens/Ajude_final.png)
+
+5. **Feira**
+   ![Tela Feira](/Imagens/Feira_final.png)
+
+6. **Feira Pop-Up**
+   ![Tela Feira Pop-Up](/Imagens/Feira2_final.png)
+
+7. **Adote**
+   ![Tela Adote](/Imagens/Adote_final.png)
+
+8. **Adote Descrição**
+   ![Tela Adote descrição](/Imagens/Adote2_final.png)
+
+9. **Adote Pop-Up**
+   ![Tela Adote](/Imagens/Adote3_final.png)
+
+10. **Coment.Adote**
+   ![Tela Comentario adoção](/Imagens/ComentarioAdote_final.png)
+
+11. **Coment.Adote Pop-Up**
+   ![Tela Comentario adoção Pop-Up](/Imagens/ComentarioAdote2_final.png)
+
+12. **Doe**
+   ![Tela Doe](/Imagens/Doe1_final.png)
+
+13. **Doe Pagamento**
+   ![Tela Doe pagamento](/Imagens/Doe2_final.png)
+
+14. **Login**
+   ![Tela Login](/Imagens/Login_final.png)
+
+15. **Cadastre-se**
+   ![Tela Cadastra-se](/Imagens/Cadastre-se_final.png)
+
+16. **Login administrador**
+   ![Tela Login administrador](/Imagens/Login-Admin_final.png)
+
+17. **Perfil Usuário**
+   ![Tela Perfil Usuário](/Imagens/PerfilUsuario_final.png)
+
+18. **Perfil Usuário Infos**
+   ![Tela Perfil Usuário](/Imagens/PerfilUsuario2_final.png)
+
+19. **Perfil Usuário Pop-Up**
+   ![Tela Perfil Usuário Pop-Up](/Imagens/PerfilUsuario2_final.png)
+
+20. **Post Usuário**
+   ![Tela Post Usúario](/Imagens/PostUsuario_final.png)
+
+21. **Post Usuário Pop-Up alteração**
+   ![Tela Post Usuário Pop-Up alteração](/Imagens/PostUsuario Pop-Up alteraçao_final.png)
+
+22. **Post Usuário Pop-Up excluir**
+   ![Tela Post Usuário Pop-Up excluir](/Imagens/PostUsuario Pop-Up excluir_fiinal.png)
+
+23. **Post Usuário Pop-Up editar**
+   ![Tela Post Usuário Pop-Up editar](/Imagens/PostUsuario Pop-Up editar_final.png)
+
+24. **Coment.Usuário**
+   ![Tela Comentario Usuário ](/Imagens/Coment.Usuario_final.png)
+   
+25. **Feedbacks Usuário**
+   ![Tela Feedbacks Usuário](/Imagens/Feedback1_final.png)
+
+26. **Feedbacks Usuário Mensagem**
+   ![Tela Feedbacks Usuário Mensagem](/Imagens/Feedback2_final.png)
+
+27. **Cadastro Animal perdido**
+   ![Tela Cadastro Animal perdido](/Imagens/Cadastrar Animal Perdido_final.png)
+
+28. **Cadastro Animal perdido**
+   ![Tela Cadastro Animal perdido](/Imagens/Cadastrar Animal Perdido2_final.png)
+
+29. **Intereses**
+   ![Tela Intereses](/Imagens/Intereses_final.png)
+
+30. **Intereses**
+   ![Tela Intereses](/Imagens/Intereses2_final.png)
+
+31. **Perfil Administrador**
+   ![Tela Perfil administrador](/Imagens/Perfil Admin_final.png)
+
+32. **Feed Adoção**
+   ![Tela Feed adoção](/Imagens/Feed Adoção_final.png)
+
+33. **Situação do bichinho**
+   ![Tela Situação do bichinho](/Imagens/Situação do bichinho_final.png)
+
+34. **Feed Adoção Pop-Up excluir**
+   ![Tela Adoção Pop-Up excluir](/Imagens/Feed Adoção excluir_final.png)
+
+35. **Feed Adoção Pop-Up editar**
+   ![Tela Adoção Pop-Up editar](/Imagens/Feed Adoção editar_final.png)
+
+36. **Post**
+   ![Tela Post](/Imagens/Posts_final.png)
+
+37. **Post Pop-Up**
+   ![Tela Post Pop-Up](/Imagens/Post Pop-up_final.png)
+
+38. **Cadastra para Adoção**
+   ![Tela Cadastrar para adoção](/Imagens/Cadastre Adoção_final.png)
+
+39. **Denúncias**
+   ![Tela Denúncias](/Imagens/Denuncias_final.png)
+
+40. **Denúncias Pop-Up excluir**
+   ![Tela Denúncias Pop-Up excluir](/Imagens/Denuncias2_final.png)
+
+41. **Eventos**
+   ![Tela Eventos](/Imagens/Eventos_final.png)
+
+42. **Cadastrar Evento**
+   ![Tela Cadastrar evento](/Imagens/Eventos2_final.png)
+
+43. **Dashboard**
+   ![Tela Dashboard](/Imagens/Dados_final.png)
+
+44. **Dashboard**
+   ![Tela Dashboard](/Imagens/Dados2_final.png)
+
+44. **Feed procurar animal**
+   ![Tela Feed procurar animal](/Imagens/Feed animais perdidos1_final.png)
+
+45. **Coment. Animal desaparecido**
+   ![Tela Comentar animal desaparecido](/Imagens/Feed animais perdidos2_final.png)
+
+46. **Denúnciar Post**
+   ![Tela Denúnciar Post](/Imagens/Feed animais perdidos3_final.png)
