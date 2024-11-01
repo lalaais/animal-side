@@ -6,7 +6,13 @@
 }
 
 body{
-    font-family: 'poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+global{
+    max-width:1600px;
+    max-height:1000px;
+
 }
 
 nav{
@@ -45,13 +51,14 @@ nav figure{
 
 .adote-hj{
     width: 100%;
-    height: 116vh;
+    height: 950px;
     background-color: #43AFFF;
     display: flex;
     justify-content: space-between;
 }
 
 .text{
+    font-weight: bold;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -90,3 +97,69 @@ figure img{
     margin-right: 103px;
     margin-top: 29px;
 }
+
+.escolha-seu-amigo-perfeito{
+    width: 100%;
+    height: 950px;
+    background-color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards{
+    gap: 50px;
+    display: flex;
+}
+
+container{
+    justify-content: center;
+}
+
+.card-1{
+    height: 275px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #43AFFF;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.card-2{
+    height: 275px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #FF6909;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.card-3{
+    height: 275px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #43AFFF;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.title-card{
+     align-items: center;
+     justify-content: center;
+     padding: 4px;
+     margin-bottom: 50px;
+     color: #FFF;
+ }
+
+
+.text-card{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 4px;
+     margin-bottom: 50px;
+     color: #FFF;
+     text-size=15px;
+ }

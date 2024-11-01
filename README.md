@@ -367,3 +367,14 @@ O "Animal Side" é uma aplicação web que visa simplificar o processo de adoç�
 
 46. **Denúnciar Post**
    ![Tela Denúnciar Post](/Imagens/Feedanimaisperdidos3_final.png)
+
+
+## FUNCIONALIDADE MARCO II - Cadastro de usuário
+
+1. Clicar no botão "LOGIN" na index.
+
+2. Ao navegar para a tela de login clicar no botão "Cadastra-se"
+
+3. É necessário criar a tabela USUARIO no banco de dados:
+
+4. CREATE TABLE CAR(ID INT PRIMARY KEY AUTO_INCREMENT, NOME VARCHAR(255), NUMERO VARCHAR(20), EMAIL VARCHAR(255), SENHA VARCHAR(255));
