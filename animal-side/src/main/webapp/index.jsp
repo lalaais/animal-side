@@ -18,7 +18,7 @@
         </div>
 
         <div class="element-nav-mom">
-            <a class="element-nav-feed" href="ong.html">A ONG</a>
+            <a class="element-nav-feed" href="ong.jsp">A ONG</a>
             <a class="element-nav-feed" href="quemsomos.html">Quem Somos?</a>
             <a class="element-nav-feed" href="ajude.jsp">Ajude</a>
             <a class="element-nav-feed" href="feira.html">Feira</a>

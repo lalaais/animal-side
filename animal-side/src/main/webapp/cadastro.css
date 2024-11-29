@@ -1,0 +1,151 @@
+@font-face {
+	font-family: "Poppins-Regular";
+	src: url("/assets/fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-Medium";
+	src: url("/assets/fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-SemiBold";
+	src: url("/assets/fonts/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-Bold";
+	src: url("/assets/fonts//Poppins-Bold.ttf");
+}
+
+body {
+    margin: 0px;
+	padding: 0px;
+}
+
+*{	
+    box-sizing: border-box;
+}
+
+button{
+	cursor: pointer;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden; 
+}
+
+.cadastro {
+    display: flex;
+    width: 100%;
+    height: 100vh; 
+}
+
+.left-section {
+    width: 50%;
+    position: relative; 
+    background-color: #ffffff;
+    display: flex;
+    align-items: flex-start; 
+    justify-content: flex-start; 
+}
+
+.btn-inicial {
+    position: absolute; 
+    top: 20px; 
+    left: 20px; 
+    z-index: 10; 
+    border: 2px solid #43AFFF;
+    border-radius: 17px;
+    background: none;
+    padding: 10px 20px;
+    color: #43AFFF;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-inicial:hover {
+    background-color: #43AFFF;
+    color: #FFF;
+}
+
+.cadastro-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    z-index: 1; 
+}
+
+.right-section {
+    width: 50%;
+    background-color: #43AFFF;
+    color: #FFFFFF;
+    padding: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.right-section h1 {
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.right-section p {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
+
+.cadastro-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cadastro-form input {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FFF;
+}
+
+.btn-criar {
+    width: 202px;
+    height: 44px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FFF;
+    color: #43AFFF;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-criar:hover {
+    background-color: #43AFFF;
+    color: #FFF;
+}
+
+.info-text {
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
