@@ -1,0 +1,159 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.global {
+    width: 100%;
+    overflow: hidden;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.logo {
+    height: 50px;
+}
+
+.links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.btn-login {
+    color: #fff;
+    background-color: #ff6600;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #00aaff;
+    padding: 60px;
+    text-align: center;
+    color: #fff;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.hero-image {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Activities Section */
+.activities {
+    padding: 40px;
+    text-align: center;
+}
+
+.activities h2 {
+    color: #ff6600;
+    margin-bottom: 30px;
+}
+
+.activity {
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.activity img {
+    width: 100%;
+    max-width: 150px;
+    margin-bottom: 15px;
+}
+
+.activity h3 {
+    color: #ff6600;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Mission Section */
+.mission {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+.mission img {
+    max-width: 150px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Values Section */
+.values {
+    padding: 40px;
+    text-align: center;
+}
+
+.value-card {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.value-item {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    width: 22%;
+}
+
+/* Adoption Fair Section */
+.adoption-fair {
+    background-color: #00aa00;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-links a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
